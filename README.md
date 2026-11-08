@@ -27,7 +27,7 @@ The final classification problem therefore contains 27 input features and 7 targ
 
 ## 3. GitHub Repository Link
 
-To be added after the GitHub repository is created.
+[GitHub Repository](https://github.com/2026ak05345-dot/steel-plates-fault-classification-ml)
 
 ## 4. Models Used
 
