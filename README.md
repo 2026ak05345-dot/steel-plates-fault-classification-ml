@@ -100,7 +100,7 @@ The repository contains:
 
 ## 8. Streamlit App Link
 
-To be added after deployment on Streamlit Community Cloud.
+[Live Streamlit App](https://steel-plates-fault-classification-ml-db98thenuccpqgbgew2kaq.streamlit.app/)
 
 ## 9. BITS Virtual Lab Screenshot
 
