@@ -1,0 +1,6 @@
+ML Model Name,Observation
+Logistic Regression,"Provided balanced and consistent performance across the seven classes, with good AUC and moderate classification performance."
+Decision Tree,"Achieved strong accuracy and MCC, showing good ability to separate the fault classes, although its AUC was lower than Logistic Regression, KNN and SVM."
+KNN,"Produced performance comparable to Logistic Regression, with a strong AUC, but slightly lower F1 score and MCC."
+Naive Bayes,"Showed the lowest overall performance among the five models, with lower accuracy, precision, recall, F1 score and MCC."
+SVM,"Achieved the best overall performance, obtaining the highest accuracy, AUC, precision, recall, F1 score and MCC among the five models."
